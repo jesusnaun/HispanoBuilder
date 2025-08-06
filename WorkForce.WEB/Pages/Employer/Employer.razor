@@ -1,0 +1,171 @@
+﻿@page "/Contractor"
+@using WorkForce.WEB.Models.Employer
+@inject NavigationManager Nav
+@inject IJSRuntime JSRuntime
+
+
+    <section class="banner-section">
+        <img src="images/banner-contractors.jpg"
+             alt="Banner Contractors"
+             class="banner-bg" />
+
+        <div class="banner-overlay"></div>
+
+        <div class="banner-content">
+            <h1 class="banner-title">Contractors</h1>
+            <p class="banner-subtitle">“Architecture designed for you, built with passion and precision.”</p>
+        </div>
+    </section>
+
+    <!-- 1. Estructura HTML -->
+    <section class="parrafos-section">
+        <div class="textos">
+            <h2 class="parrafos-subtitle">Committed to Quality and Sustainability</h2>
+            <p>With over fifteen years of proven excellence, Hispano Builders delivers construction solutions that blend reliability and environmental consciousness. Our team approaches every project—residential or commercial—with adaptability and precision, ensuring outcomes that reflect both structural integrity and aesthetic value.</p>
+            <p>Thanks to strategic alliances with local suppliers and the use of high-quality materials, Hispano Builders optimizes costs without sacrificing durability or aesthetics...</p>
+        </div>
+
+        <div class="imagen-hover">
+            <img src="images/parrafo-contractors.jpg" alt="Team of contractors at work" />
+            <div class="overlay">
+                <i class="fas fa-hard-hat"></i>
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="parajeshu-form-section">
+    <EditForm Model="employerModel" OnValidSubmit="HandleSave" id="employerForm" class="flex flex-col gap-6">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary />
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                    for="name">Contact Name</label>
+                <InputText class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                     id="name" placeholder="Enter your name"
+                       @bind-Value="employerModel.ContactName"></InputText>
+        </div>
+
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                   for="name">Company Name</label>
+            <InputText class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                       id="name" placeholder="Enter your company name"
+                       @bind-Value="employerModel.CompanyName"></InputText>
+        </div>
+
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                   for="name">Contact Phone</label>
+            <InputText class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                       placeholder="Enter your number phone"
+                       @bind-Value="employerModel.Phone"></InputText>
+        </div>
+
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                   for="name">Contact Email</label>
+            <InputText class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                       placeholder="Enter your email address"
+                       @bind-Value="employerModel.Email"></InputText>
+        </div>
+
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                   for="name">State</label>
+            <select class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                       placeholder="Enter your email address"
+                       @bind="employerModel.StateId"></select>
+        </div>
+
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                   for="name">County</label>
+            <InputText class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                       placeholder="Enter your county"
+                       @bind-Value="employerModel.County">
+            @*     @if (model?.Countries != null)
+                {
+                    @foreach (var cnt in model.Countries)
+                    {
+                        <option value="@cnt.Id">@cnt.Name</option>
+                    }
+                } *@
+                   
+                   </InputText>
+        </div>
+
+        <div class="flex flex-col">
+            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
+                   for="name">Message</label>
+            <InputTextArea class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                       placeholder="How can help you?" rows="4"
+                       @bind-Value="employerModel.Message"></InputTextArea>
+        </div>
+
+       
+        <button type="submit"
+                class="self-end px-8 py-3 bg-[#0066cc] text-white text-base font-semibold border-none rounded-md cursor-pointer transition duration-300 ease-in-out hover:bg-[#004999] hover:-translate-y-0.5
+                @(isSending ? "opacity-70 cursor-not-allowed" : "")"
+                disabled="@isSending">
+            @*    @onclick="HandleLogin">  *@
+
+            @if (isSending)
+            {
+                <i class="fa-solid fa-spinner fa-spin text-lg"></i>
+                <span>@buttonText</span>
+            }
+            else
+            {
+                <span>@buttonText</span>
+            }
+        </button>
+
+        </EditForm>
+    </section>
+
+
+
+
+
+@code {
+
+    private EmployerRequest employerModel = new();
+    private string errorMessage = string.Empty;
+
+    // State variables for button UI
+    private bool isSending = false;
+    private string buttonText = "Send";
+
+
+    //CLICK DE INGRESAR
+    private async Task HandleSave()
+    {
+        isSending = true;
+        buttonText = "Sending...";
+        StateHasChanged();
+
+        await Task.Delay(2000); // Simula un retraso de 2 segundos para la demostración
+
+        errorMessage = string.Empty;
+        //var result = await Auth.LoginAsync(loginModel);
+
+        //if (result == "success")
+        //{
+            isSending = false;
+            buttonText = "Enter";
+            StateHasChanged();
+            Nav.NavigateTo("/Home"); // o redirige al dashboard
+        //}
+        //else
+        //{
+        //    isLoggingIn = false;
+        //    buttonText = "Enter";
+        //    StateHasChanged();
+        //    errorMessage = result;
+        //}
+
+
+    }
+}
