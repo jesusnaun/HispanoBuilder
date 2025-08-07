@@ -1,7 +1,11 @@
 ﻿@page "/Contractor"
+@using System.Text.Json
 @using WorkForce.WEB.Models.Employer
+@using WorkForce.WEB.Models.Responses
+@using WorkForce.WEB.Models.State
 @inject NavigationManager Nav
 @inject IJSRuntime JSRuntime
+@inject HttpClient Http
 
 
     <section class="banner-section">
@@ -71,29 +75,24 @@
                        @bind-Value="employerModel.Email"></InputText>
         </div>
 
-        <div class="flex flex-col">
-            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
-                   for="name">State</label>
-            <select class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
-                       placeholder="Enter your email address"
-                       @bind="employerModel.StateId"></select>
-        </div>
-
-        <div class="flex flex-col">
-            <label class=" mb-2 font-semibold text-[#333] text-[0.95rem]"
-                   for="name">County</label>
-            <InputText class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
-                       placeholder="Enter your county"
-                       @bind-Value="employerModel.County">
-            @*     @if (model?.Countries != null)
+            <div class="flex flex-col">
+            <label class="mb-2 font-semibold text-[#333] text-[0.95rem]" for="state">State</label>
+            <InputSelect class="py-3 px-4 border border-[#ccc] rounded-[4px] bg-white text-base transition-all duration-300 ease-in-out focus:border-[#0066cc] focus:ring-4 focus:ring-[#0066cc]/20 focus:outline-none"
+                         id="state"
+                         @bind-Value="employerModel.StateId">
+                <option value="0">-- Select State --</option>
+                @if (states != null)
                 {
-                    @foreach (var cnt in model.Countries)
+                    @foreach (var state in states)
                     {
-                        <option value="@cnt.Id">@cnt.Name</option>
+                        <option value="@state.Id">@state.Name</option>
                     }
-                } *@
-                   
-                   </InputText>
+                }
+            </InputSelect>
+            @if (isLoadingStates)
+            {
+                <small class="text-gray-500 mt-1">Loading states...</small>
+            }
         </div>
 
         <div class="flex flex-col">
@@ -131,13 +130,63 @@
 
 @code {
 
+
+    // Variables for employers and states
     private EmployerRequest employerModel = new();
+    private List<StateResponse>? states;
+    private bool isLoadingStates = false;
+
+
     private string errorMessage = string.Empty;
 
     // State variables for button UI
     private bool isSending = false;
     private string buttonText = "Send";
 
+    //Initialize states
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadStates();
+    }
+
+    private async Task LoadStates()
+    {
+        try
+        {
+            isLoadingStates = true;
+            StateHasChanged();
+
+            var response = await Http.GetAsync("api/state/list");
+
+            if (response.IsSuccessStatusCode)
+            {
+                var jsonString = await response.Content.ReadAsStringAsync();
+                var apiResponse = JsonSerializer.Deserialize<ApiResponse<List<StateResponse>>>(jsonString, _jsonOptions);
+                states = apiResponse?.Data ?? new List<StateResponse>();
+            }
+            else
+            {
+                states = new List<StateResponse>();
+                // Opcional: mostrar mensaje de error al usuario
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading states: {ex.Message}");
+            states = new List<StateResponse>();
+        }
+        finally
+        {
+            isLoadingStates = false;
+            StateHasChanged();
+        }
+    }
+
+    // JsonSerializer Configuration
+    private readonly JsonSerializerOptions _jsonOptions = new()
+    {
+        PropertyNameCaseInsensitive = true
+    };
 
     //CLICK DE INGRESAR
     private async Task HandleSave()

@@ -1511,11 +1511,7 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.quzkfrf5yo.wasm
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.klugshkyff.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.quzkfrf5yo.wasm.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.klugshkyff.pdb.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\package-lock.json
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\package.json
@@ -2172,9 +2168,6 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\drktlby
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\gxp1urhot5-tjcz0u77k5.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\6yfkcysjww-tptq2av103.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\3lwa7yufn4-lfu7j35m59.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-quzkfrf5yo.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-klugshkyff.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-0qz3fopbcd.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.build.json
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.development.json
@@ -2185,3 +2178,10 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\refint\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\ref\WorkForce.WEB.dll
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.t1ct22zyj8.wasm
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.x2rnjbmdsk.pdb
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.t1ct22zyj8.wasm.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.x2rnjbmdsk.pdb.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-t1ct22zyj8.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-x2rnjbmdsk.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-lfrqufl1mq.gz

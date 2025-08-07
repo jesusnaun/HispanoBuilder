@@ -7,40 +7,64 @@
       "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\pages\\employer\\employer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\pages\\employer\\employer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\pages\\employer\\employer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\models\\state\\stateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\models\\state\\stateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\models\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\models\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\models\\employer\\employerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\models\\employer\\employerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\pages\\trade\\trade.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\pages\\trade\\trade.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\models\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\models\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\workforce.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\workforce.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\repositories\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\repositories\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\repositories\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\repositories\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\models\\state\\stateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\models\\state\\stateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\models\\state\\stateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\models\\state\\stateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\models\\state\\staterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\models\\state\\staterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,74 +79,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WorkForce.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WorkForce.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Program.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Program.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:01:32.426Z"
+              "WhenOpened": "2025-08-07T01:12:07.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "WorkForce.API\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "WorkForce.API\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:00:19.265Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkForce.API\\appsettings.json",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\appsettings.json",
+              "RelativeToolTip": "WorkForce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T01:00:26.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Auth\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\Auth\\LoginRequest.cs",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Auth\\LoginRequest.cs",
-              "RelativeToolTip": "WorkForce.WEB\\Models\\Auth\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Services\\AuthService.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Services\\AuthService.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Services\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T15:31:38.51Z"
+              "WhenOpened": "2025-08-06T18:05:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateResponse.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\State\\StateResponse.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\State\\StateResponse.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\State\\StateResponse.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Models\\State\\StateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:57:18.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmployerRequest.cs",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
-              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
-              "RelativeToolTip": "WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\Responses\\ApiResponse.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Models\\Responses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T15:31:35.094Z"
+              "WhenOpened": "2025-08-06T17:55:49.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WorkForce.WEB.csproj",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\WorkForce.WEB.csproj",
-              "RelativeDocumentMoniker": "WorkForce.WEB\\WorkForce.WEB.csproj",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\WorkForce.WEB.csproj",
-              "RelativeToolTip": "WorkForce.WEB\\WorkForce.WEB.csproj",
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Auth\\UserDto.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\Auth\\UserDto.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Auth\\UserDto.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Models\\Auth\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T15:22:53.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Trade.razor.css",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Trade\\Trade.razor.css",
-              "RelativeDocumentMoniker": "WorkForce.WEB\\Pages\\Trade\\Trade.razor.css",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Trade\\Trade.razor.css",
-              "RelativeToolTip": "WorkForce.WEB\\Pages\\Trade\\Trade.razor.css",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-30T06:56:10.048Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:50:31.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,47 +162,127 @@
               "RelativeDocumentMoniker": "WorkForce.WEB\\Pages\\Employer\\Employer.razor",
               "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor",
               "RelativeToolTip": "WorkForce.WEB\\Pages\\Employer\\Employer.razor",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T06:27:33.59Z",
+              "WhenOpened": "2025-08-06T17:44:03.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Program.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Program.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Program.cs",
+              "RelativeToolTip": "WorkForce.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:15:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployerRequest.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:47:49.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StateUpdateDto.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Models\\State\\StateUpdateDto.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Models\\State\\StateUpdateDto.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Models\\State\\StateUpdateDto.cs",
+              "RelativeToolTip": "WorkForce.API\\Models\\State\\StateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:38:26.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StateRequest.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Models\\State\\StateRequest.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Models\\State\\StateRequest.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Models\\State\\StateRequest.cs",
+              "RelativeToolTip": "WorkForce.API\\Models\\State\\StateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:38:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StateResponse.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Models\\State\\StateResponse.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Models\\State\\StateResponse.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Models\\State\\StateResponse.cs",
+              "RelativeToolTip": "WorkForce.API\\Models\\State\\StateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:38:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStateRepository.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\IStateRepository.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Repositories\\IStateRepository.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\IStateRepository.cs",
+              "RelativeToolTip": "WorkForce.API\\Repositories\\IStateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:47:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Controllers\\StateController.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Controllers\\StateController.cs",
+              "RelativeToolTip": "WorkForce.API\\Controllers\\StateController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:37:19.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\StateRepository.cs",
+              "RelativeDocumentMoniker": "WorkForce.API\\Repositories\\StateRepository.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\StateRepository.cs",
+              "RelativeToolTip": "WorkForce.API\\Repositories\\StateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:37:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "WorkForce.API\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "WorkForce.API\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T15:00:34.768Z",
+              "WhenOpened": "2025-08-06T11:30:31.135Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Login\\Login.razor",
-              "RelativeDocumentMoniker": "WorkForce.WEB\\Pages\\Login\\Login.razor",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Login\\Login.razor",
-              "RelativeToolTip": "WorkForce.WEB\\Pages\\Login\\Login.razor",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T06:30:33.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employer.razor.css",
-              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor.css",
-              "RelativeDocumentMoniker": "WorkForce.WEB\\Pages\\Employer\\Employer.razor.css",
-              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor.css",
-              "RelativeToolTip": "WorkForce.WEB\\Pages\\Employer\\Employer.razor.css",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-30T06:28:49.052Z"
             }
           ]
         }

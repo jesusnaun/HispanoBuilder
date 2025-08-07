@@ -11,7 +11,7 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 
 //builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 //builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7192/") });
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://jesusnaun-001-site22.qtempurl.com/") });
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://jesusnaun-001-site23.qtempurl.com/") });
 
 
 //builder.Services.AddMudServices();

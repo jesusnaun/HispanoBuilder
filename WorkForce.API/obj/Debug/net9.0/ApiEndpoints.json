@@ -26,9 +26,81 @@
     ]
   },
   {
-    "ContainingType": "WorkForce.API.Controllers.UsersController",
+    "ContainingType": "WorkForce.API.Controllers.StateController",
+    "Method": "CreateState",
+    "RelativePath": "api/State",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WorkForce.API.Models.State.StateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WorkForce.API.Models.Responses.ApiResponse\u00601[[WorkForce.API.Models.State.StateResponse, WorkForce.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WorkForce.API.Controllers.StateController",
+    "Method": "GetStateById",
+    "RelativePath": "api/State/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WorkForce.API.Models.Responses.ApiResponse\u00601[[WorkForce.API.Models.State.StateResponse, WorkForce.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WorkForce.API.Controllers.StateController",
+    "Method": "GetActiveStates",
+    "RelativePath": "api/State/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WorkForce.API.Models.Responses.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[WorkForce.API.Models.State.StateResponse, WorkForce.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WorkForce.API.Controllers.UserController",
     "Method": "CreateUser",
-    "RelativePath": "api/Users",
+    "RelativePath": "api/User",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -52,9 +124,9 @@
     ]
   },
   {
-    "ContainingType": "WorkForce.API.Controllers.UsersController",
+    "ContainingType": "WorkForce.API.Controllers.UserController",
     "Method": "GetUser",
-    "RelativePath": "api/Users/{id}",
+    "RelativePath": "api/User/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
