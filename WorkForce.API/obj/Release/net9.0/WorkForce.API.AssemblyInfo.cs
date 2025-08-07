@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkForce.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0b12f826b57910ebc86ccd68b71e9ed28aa1612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9710e3d652cca519cf6251744f57c36dae554a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkForce.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkForce.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
