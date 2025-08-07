@@ -2178,6 +2178,7 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\refint\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\ref\WorkForce.WEB.dll
+<<<<<<< Updated upstream
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.t1ct22zyj8.wasm
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.x2rnjbmdsk.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.t1ct22zyj8.wasm.gz
@@ -2185,3 +2186,12 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-t1ct22zyj8.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-x2rnjbmdsk.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-lfrqufl1mq.gz
+=======
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.o7mua3ir5p.wasm
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.tijh5y60jd.pdb
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.o7mua3ir5p.wasm.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.tijh5y60jd.pdb.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-o7mua3ir5p.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-tijh5y60jd.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-i16o1o1lnz.gz
+>>>>>>> Stashed changes
