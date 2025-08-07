@@ -2145,10 +2145,10 @@ C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\obj\Debug\net9.0\stati
 C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\obj\Debug\net9.0\WorkForc.70159607.Up2Date
 C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\obj\Debug\net9.0\ref\WorkForce.WEB.dll
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.ohwimxziez.wasm
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.qlbq0z2wnu.pdb
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.ohwimxziez.wasm.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.qlbq0z2wnu.pdb.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-ohwimxziez.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-qlbq0z2wnu.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-axp3kydtui.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.xd1qq1kot6.wasm
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.32ywywn709.pdb
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.xd1qq1kot6.wasm.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.32ywywn709.pdb.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-xd1qq1kot6.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-32ywywn709.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-ag48215n1v.gz
