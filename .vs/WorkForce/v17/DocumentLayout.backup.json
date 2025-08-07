@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\ProjectsNet9\\HispanoBuilder\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\pages\\employer\\employer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\pages\\employer\\employer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,19 +30,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Employer.razor",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "RelativeToolTip": "WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T03:56:59.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Program.cs",
               "RelativeDocumentMoniker": "WorkForce.WEB\\Program.cs",
               "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Program.cs",
               "RelativeToolTip": "WorkForce.WEB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T03:12:16.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WorkForce.WEB",
               "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\WorkForce.WEB.csproj",
               "RelativeDocumentMoniker": "WorkForce.WEB\\WorkForce.WEB.csproj",
