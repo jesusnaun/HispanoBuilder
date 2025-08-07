@@ -213,8 +213,6 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.b0i83o1cby.wasm
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.gmwycni6eh.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm.gz
@@ -423,8 +421,6 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.b0i83o1cby.wasm.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.gmwycni6eh.pdb.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\package-lock.json
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\package.json
@@ -1062,9 +1058,6 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\drktlby
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\gxp1urhot5-tjcz0u77k5.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\6yfkcysjww-tptq2av103.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\3lwa7yufn4-lfu7j35m59.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-b0i83o1cby.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-gmwycni6eh.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-aaahukyewb.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.build.json
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\staticwebassets.development.json
@@ -1075,3 +1068,10 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\refint\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\ref\WorkForce.WEB.dll
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.2o74vhe9d8.wasm
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.xst2b6lmcn.pdb
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.2o74vhe9d8.wasm.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.xst2b6lmcn.pdb.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-2o74vhe9d8.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-xst2b6lmcn.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-lfatjh8izn.gz
