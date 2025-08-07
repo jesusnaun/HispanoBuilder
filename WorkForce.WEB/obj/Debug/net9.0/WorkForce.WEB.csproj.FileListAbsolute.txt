@@ -1068,10 +1068,10 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\refint\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\ref\WorkForce.WEB.dll
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.xt9whnuoft.wasm
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.mgrfmius73.pdb
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.xt9whnuoft.wasm.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.mgrfmius73.pdb.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-xt9whnuoft.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-mgrfmius73.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-c6lfi9o6x8.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.7wepahkqk3.wasm
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.m9bkuzile3.pdb
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.7wepahkqk3.wasm.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.m9bkuzile3.pdb.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-7wepahkqk3.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-m9bkuzile3.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-z615n091o3.gz

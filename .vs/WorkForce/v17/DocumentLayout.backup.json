@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ProjectsNet9\\HispanoBuilder\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAEE31BE-A3BA-4D82-964F-5E261DDD1C15}|WorkForce.API\\WorkForce.API.csproj|solutionrelative:workforce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkForce.API\\appsettings.json",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.API\\appsettings.json",
+              "RelativeToolTip": "WorkForce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T05:49:17.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
