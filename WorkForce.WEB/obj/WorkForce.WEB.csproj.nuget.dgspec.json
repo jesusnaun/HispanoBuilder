@@ -53,16 +53,16 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -75,10 +75,6 @@
               "target": "Package",
               "version": "[9.0.8, )",
               "autoReferenced": true
-            },
-            "MudBlazor": {
-              "target": "Package",
-              "version": "[8.10.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
