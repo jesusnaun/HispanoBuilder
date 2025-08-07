@@ -1,5 +1,5 @@
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\wwwroot\css\app.css
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\wwwroot\css\input.css
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\wwwroot\index.html
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\wwwroot\js\carousel.js
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\wwwroot\js\login-interop.js
+C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\wwwroot\css\app.css
+C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\wwwroot\css\input.css
+C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\wwwroot\index.html
+C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\wwwroot\js\carousel.js
+C:\Users\Josue\Desktop\HispanoBuilderVS2022\WorkForce.WEB\wwwroot\js\login-interop.js
