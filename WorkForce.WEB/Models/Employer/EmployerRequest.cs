@@ -11,6 +11,8 @@ namespace WorkForce.WEB.Models.Employer
         public string CompanyName { get; set; } = string.Empty;
 
         [Required]
+        [RegularExpression(@"^[0-9\-]+$",
+        ErrorMessage = "Phone must contain only numbers")]
         public string Phone { get; set; } = string.Empty;
 
         [Required]

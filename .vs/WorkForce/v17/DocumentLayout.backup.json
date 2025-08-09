@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ProjectsNet9\\HispanoBuilder\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\models\\employer\\employerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\models\\employer\\employerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|c:\\projectsnet9\\hispanobuilder\\workforce.web\\pages\\employer\\employer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10ABDE6B-FD12-49EF-B9AB-F02D2B832CFE}|WorkForce.WEB\\WorkForce.WEB.csproj|solutionrelative:workforce.web\\pages\\employer\\employer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployerRequest.cs",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "RelativeToolTip": "WorkForce.WEB\\Models\\Employer\\EmployerRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:40:13.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employer.razor",
+              "DocumentMoniker": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "RelativeDocumentMoniker": "WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "ToolTip": "C:\\ProjectsNet9\\HispanoBuilder\\WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "RelativeToolTip": "WorkForce.WEB\\Pages\\Employer\\Employer.razor",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T10:21:38.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkForce.WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9710e3d652cca519cf6251744f57c36dae554a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c190daf7101e56f6fa912e1f9ce83cd6431c79")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkForce.WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkForce.WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

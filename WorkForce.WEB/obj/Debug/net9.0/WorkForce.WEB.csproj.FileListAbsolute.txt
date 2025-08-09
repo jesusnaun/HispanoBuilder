@@ -1921,7 +1921,6 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\scopedcss\bundle\W
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\scopedcss\projectbundle\WorkForce.WEB.bundle.scp.css
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\blazor.build.boot-extension.json
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\blazor.boot.json
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\9aiu5de251-yocz4js7t5.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\c8wyzmlgld-sg0umt2tik.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\yhpwjgejxx-rcmg2hkmvl.gz
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\zagygvlceu-e3ho340onc.gz
@@ -2145,10 +2144,11 @@ C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\refint\WorkForce.WEB.dll
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\WorkForce.WEB.pdb
 C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\ref\WorkForce.WEB.dll
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.2380bwb1aa.wasm
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.apfa8qh9o9.pdb
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.2380bwb1aa.wasm.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.apfa8qh9o9.pdb.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-2380bwb1aa.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-apfa8qh9o9.gz
-C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-6rinhxism5.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\9aiu5de251-874u1y8vse.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.3gqsoobs71.wasm
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.192ot4avwy.pdb
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.3gqsoobs71.wasm.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\bin\Debug\net9.0\wwwroot\_framework\WorkForce.WEB.192ot4avwy.pdb.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\cn4zrags9h-3gqsoobs71.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\iy7mbg1d9l-192ot4avwy.gz
+C:\ProjectsNet9\HispanoBuilder\WorkForce.WEB\obj\Debug\net9.0\compressed\8t4a4d3lch-eh2suh5ks7.gz
